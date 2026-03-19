@@ -31,7 +31,7 @@ Artist), Place, and Date of Birth, also a table of employees according to the fo
   
 **Notes**
   * The fornt-end is written in Javascript, back-end is written in PHP, database is using MySQL.
-  * Run cmd/main.go
+  * To start server: php -S localhost:8080
   * Back-end Server connection:
       - Host name = Localhost
       - Port = 8080
